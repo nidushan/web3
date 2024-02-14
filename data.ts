@@ -1,6 +1,8 @@
 import profileImg from "./public/profile.jpg";
 import stackOverflowImg from "./public/decentralized-stackoverflow.webp";
 import solanaAdsImg from "./public/solana-ads.jpg";
+import steamID from "./public/steamID.png";
+import Wedding from "./public/wedding.png";
 
 export const portfolio = {
   about: {
@@ -17,7 +19,7 @@ I am a positive, efficient and energetic person who enjoys contact with other pe
   projects: [
     {
       name: "SteamID-Display",
-      img: stackOverflowImg,
+      img: steamID,
       tools: ["TypeScript", "JavaScript", "CSS"],
       url: "https://github.com/nidushan/SteamID-Display",
       description: `In this project, I built a chrome extention that will let you see steamIDs of the corresponding profile.
@@ -28,7 +30,7 @@ Using the Steam API and xPaw's steamID library, I've crafted a reliable tool tha
     },
     {
       name: "Wedding Seating Chart",
-      img: solanaAdsImg,
+      img: Wedding,
       tools: ["TypeScript", "SCSS", "JS", "React"],
       url: "https://github.com/nidushan/wedding-seating-chart-main",
       description: `In this project I built a a simple web application designed for guests to receive digital escort cards (table numbers) for weddings!
