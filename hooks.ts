@@ -60,7 +60,7 @@ const useClock = ({ defaultValue = 0, reverse = false } = {}) => {
 
 // Compose all of our helper hooks into a clock
 // that depends on scroll direction/position
-export const useScrollClock = ({ scrollAccelerationFactor = 10 } = {}) => {
+export const useScrollClock = ({ scrollAccelerationFactor = 20 } = {}) => {
   const scrollPosition = useScrollPosition();
   const lastScrollDirection = useLastScrollDirection();
   const clock = useClock({
