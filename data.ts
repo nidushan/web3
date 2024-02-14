@@ -4,7 +4,7 @@ import solanaAdsImg from "./public/solana-ads.jpg";
 
 export const portfolio = {
   about: {
-    firstName: "Jan",
+    firstName: "Jan Nidushan",
     lastName: "Sinnadurai",
     img: profileImg,
     bio: `Hey there, I'm Jan! 🌟 
