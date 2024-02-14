@@ -12,7 +12,9 @@ export const portfolio = {
 
 With 8 years of web development experience and a recent dive into web3 technologies, I've honed my skills in solidity, rust, nextjs, typescript, and postgres
 
-I am a positive, efficient and energetic person who enjoys contact with other people. I am service minded and like to help others. With university knowledge and real-life experience under my belt, I can face any obstacle and resolve any issues.`,
+I am a positive, efficient and energetic person who enjoys contact with other people. I am service minded and like to help others. 
+
+With university knowledge and real-life experience under my belt, I can face any obstacle and resolve any issues.`,
     skills: ["TypeScript", "NextJS", "Ruby", "Solidity", "C++", "Polygon"],
   },
   projects: [
