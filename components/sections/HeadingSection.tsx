@@ -21,7 +21,7 @@ const HeadingSection = ({ heading }: any) => {
     <ScrollSection h="h-screen-4" borderBottom="sm">
       <Flex h="h-screen" alignItems="center" pos="sticky" top={0}>
         <ScrollItem keyframes={keyframes.heading} pos="relative" left="50%">
-          <Heading size="3xl" whiteSpace="nowrap">
+          <Heading size="5xl" whiteSpace="nowrap">
             {heading}
           </Heading>
         </ScrollItem>
