@@ -57,10 +57,10 @@ const IntroSection = () => {
               top="50%"
               transform="translate(-50%, -50%)"
             >
-              <Heading size="3xl">
+              <Heading size="2xl">
                 <TextReveal text={portfolio.about.firstName} delay={0.25} />
               </Heading>
-              <Heading size="3xl" textAlign="end">
+              <Heading size="2xl" textAlign="end">
                 <TextReveal text={portfolio.about.lastName} delay={0.45} />
               </Heading>
             </Box>
