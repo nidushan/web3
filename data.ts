@@ -23,7 +23,7 @@ I am a positive, efficient and energetic person who enjoys contact with other pe
       url: "https://github.com/nidushan/SteamID-Display",
       description: `In this project, I built a chrome extention that will let you see steamIDs of the corresponding profile.
 
-      With this extension, I've made it super easy for you to view anyone's Steam ID directly from their Steam profile right in your browser.
+With this extension, I've made it super easy for you to view anyone's Steam ID directly from their Steam profile right in your browser.
 
 Using the Steam API and xPaw's steamID library, I've crafted a reliable tool that simplifies the process of accessing Steam IDs. `,
     },
