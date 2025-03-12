@@ -21,7 +21,7 @@ With university knowledge and real-life experience under my belt, I am prepared 
     {
       name: "SteamID-Display",
       img: stackOverflowImg,
-      tools: ["HTML", "JavaScript", "CSS"],
+      tools: ["HTML", "JS", "CSS"],
       url: "https://github.com/nidushan/SteamID-Display",
       description: `In this project, I built a Chrome extension that allows you to see steamIDs of the corresponding profile.
 
@@ -32,7 +32,7 @@ Using the Steam API and xPaw's steamID library, I've crafted a reliable tool tha
     {
       name: "Wedding Seating Chart",
       img: solanaAdsImg,
-      tools: ["TypeScript", "SCSS", "JS", "React"],
+      tools: ["TS", "SCSS", "JS", "React"],
       url: "https://github.com/nidushan/wedding-seating-chart-main",
       description: `In this project, I built a simple web application for guests to receive digital escort cards (table numbers) for weddings!
 
