@@ -21,7 +21,7 @@ With university knowledge and real-life experience under my belt, I am prepared 
     {
       name: "SteamID-Display",
       img: stackOverflowImg,
-      tools: ["TypeScript", "JavaScript", "CSS"],
+      tools: ["HTML", "JavaScript", "CSS"],
       url: "https://github.com/nidushan/SteamID-Display",
       description: `In this project, I built a Chrome extension that allows you to see steamIDs of the corresponding profile.
 
